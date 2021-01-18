@@ -1,0 +1,19 @@
+asn1crypto==0.24.0
+certifi==2020.6.20
+cffi==1.12.3
+chardet==3.0.4
+conda==4.9.0
+conda-package-handling==1.3.11
+cryptography==2.7
+idna==2.8
+libarchive-c==2.8
+numpy @ file:///opt/concourse/worker/volumes/live/11d1f15e-7144-43cc-411f-1f3de9a021d9/volume/numpy_and_numpy_base_1596233912617/work
+pycosat==0.6.3
+pycparser==2.19
+pyOpenSSL==19.0.0
+PySocks==1.7.0
+requests==2.22.0
+ruamel-yaml==0.15.46
+six==1.12.0
+tqdm==4.32.1
+urllib3==1.24.2
